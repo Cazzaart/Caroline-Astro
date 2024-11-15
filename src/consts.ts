@@ -1,3 +1,3 @@
-export const SITE_TITLE = "Astro Sky";
+export const SITE_TITLE = "Caroline Design";
 export const SITE_DESCRIPTION =
-  "Welcome to Astro Sky. A minimal and elegant portfolio theme built for Astro.";
+  "Graphic designer based in Byron Bay Australia.";
